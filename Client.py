@@ -9,8 +9,8 @@ import time
 import shutil
 from datetime import datetime
 
-BASE_URL = 'http://127.0.0.1:5000'
-#BASE_URL = 'https://dotsoft.onrender.com'
+#BASE_URL = 'http://127.0.0.1:5000'
+BASE_URL = 'https://dotsoft.onrender.com'
 
 SCOPES = ['https://www.googleapis.com/auth/youtube.readonly']
 
