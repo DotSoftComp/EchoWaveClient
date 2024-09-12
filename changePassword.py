@@ -2,8 +2,8 @@ import requests
 import json
 import sys
 
-#BASE_URL = 'https://dotsoft.onrender.com'
-BASE_URL = 'http://127.0.0.1:5000'
+BASE_URL = 'https://dotsoft.onrender.com'
+#BASE_URL = 'http://127.0.0.1:5000'
 
 def CallServerChangePassword():
     # Open and read the JSON file
